@@ -17,7 +17,7 @@ var ReqIp = require('req-ip')
 var reqIp = ReqIp()
 
 reqIp(req, res, function (err) {
-  //=> req.id === '1.2.3.4'  
+  //=> req.ip === '1.2.3.4'  
 })
 ```
 
