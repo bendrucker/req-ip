@@ -1,7 +1,7 @@
 {
   "name": "req-ip",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Middleware for appending req.ip to HTTP requests with support for reverse proxies",
   "license": "MIT",
   "repository": "bendrucker/req-ip",
