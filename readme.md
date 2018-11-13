@@ -1,4 +1,4 @@
-# req-ip [![Build Status](https://travis-ci.org/bendrucker/req-ip.svg?branch=master)](https://travis-ci.org/bendrucker/req-ip)
+# req-ip [![Build Status](https://travis-ci.org/bendrucker/req-ip.svg?branch=master)](https://travis-ci.org/bendrucker/req-ip) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/req-ip.svg)](https://greenkeeper.io/)
 
 > Middleware for appending `req.ip` to HTTP requests with support for reverse proxies
 
