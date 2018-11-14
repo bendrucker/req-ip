@@ -24,7 +24,7 @@
     "proxy"
   ],
   "devDependencies": {
-    "shot": "^3.4.2",
+    "shot": "^4.0.7",
     "standard": "^12.0.1",
     "tape": "^4.0.0"
   },
